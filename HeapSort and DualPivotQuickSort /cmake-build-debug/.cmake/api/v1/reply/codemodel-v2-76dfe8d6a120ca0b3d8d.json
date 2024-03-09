@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HeapSort_and_DualPivotQuickSort_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HeapSort_and_DualPivotQuickSort_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HeapSort_and_DualPivotQuickSort_-Debug-62e2a7e50d7949ad0a95.json",
+					"name" : "HeapSort_and_DualPivotQuickSort_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/shopangali05/CLionProjects/HeapSort and DualPivotQuickSort /cmake-build-debug",
+		"source" : "/Users/shopangali05/CLionProjects/HeapSort and DualPivotQuickSort "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
