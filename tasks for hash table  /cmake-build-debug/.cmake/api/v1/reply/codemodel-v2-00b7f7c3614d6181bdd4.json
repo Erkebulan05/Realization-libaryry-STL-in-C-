@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tasks_for_hash_table__",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tasks_for_hash_table__::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tasks_for_hash_table__-Debug-9479a9cee84766e7eaf8.json",
+					"name" : "tasks_for_hash_table__",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/shopangali05/CLionProjects/tasks for hash table  /cmake-build-debug",
+		"source" : "/Users/shopangali05/CLionProjects/tasks for hash table  "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
