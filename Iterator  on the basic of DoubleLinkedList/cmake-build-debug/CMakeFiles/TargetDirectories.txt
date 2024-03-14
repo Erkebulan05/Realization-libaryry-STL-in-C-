@@ -1,0 +1,3 @@
+/Users/shopangali05/CLionProjects/Iterator  on the basic of DoubleLinkedList/cmake-build-debug/CMakeFiles/Iterator__on_the_basic_of_DoubleLinkedList.dir
+/Users/shopangali05/CLionProjects/Iterator  on the basic of DoubleLinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shopangali05/CLionProjects/Iterator  on the basic of DoubleLinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
