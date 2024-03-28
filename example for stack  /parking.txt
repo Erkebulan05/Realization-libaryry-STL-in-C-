@@ -1,0 +1,16 @@
+Nissan in
+BMW in
+Audi in
+Nissan out
+Kia in
+Toyota in
+Audi out
+Skoda in
+Lada in
+Tesla in
+Kia out
+BMW out
+Audi out
+Toyota out
+Skoda out
+Lada out

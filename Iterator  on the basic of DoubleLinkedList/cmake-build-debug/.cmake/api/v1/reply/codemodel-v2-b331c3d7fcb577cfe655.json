@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Iterator__on_the_basic_of_DoubleLinkedList",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Iterator__on_the_basic_of_DoubleLinkedList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Iterator__on_the_basic_of_DoubleLinkedList-Debug-719b4395c8da9cb37cf0.json",
+					"name" : "Iterator__on_the_basic_of_DoubleLinkedList",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/shopangali05/CLionProjects/Iterator  on the basic of DoubleLinkedList/cmake-build-debug",
+		"source" : "/Users/shopangali05/CLionProjects/Iterator  on the basic of DoubleLinkedList"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
