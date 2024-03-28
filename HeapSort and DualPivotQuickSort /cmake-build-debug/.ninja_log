@@ -1,7 +1,0 @@
-# ninja log v5
-0	278	1709909090005625530	CMakeFiles/HeapSort_and_DualPivotQuickSort_.dir/main.cpp.o	8cf39f1e19067ac9
-279	311	1709909090038829948	HeapSort_and_DualPivotQuickSort_	207569c085ce2358
-1	311	1709909107367035940	CMakeFiles/HeapSort_and_DualPivotQuickSort_.dir/main.cpp.o	8cf39f1e19067ac9
-312	345	1709909107400412440	HeapSort_and_DualPivotQuickSort_	207569c085ce2358
-1	311	1709909122881892396	CMakeFiles/HeapSort_and_DualPivotQuickSort_.dir/main.cpp.o	8cf39f1e19067ac9
-312	345	1709909122915889606	HeapSort_and_DualPivotQuickSort_	207569c085ce2358
