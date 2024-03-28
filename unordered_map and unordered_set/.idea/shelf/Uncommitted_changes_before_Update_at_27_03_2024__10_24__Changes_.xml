@@ -1,0 +1,14 @@
+<changelist name="Uncommitted_changes_before_Update_at_27_03_2024,_10_24_[Changes]" date="1711513460706" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_03_2024,_10_24_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 27.03.2024, 10:24 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="../tasks for hash table  /cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" />
+    <option name="AFTER_PATH" value="../tasks for hash table  /cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_03_2024,_10_24_[Changes]/CMakeDetermineCompilerABI_C.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../tasks for hash table  /cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="AFTER_PATH" value="../tasks for hash table  /cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_03_2024,_10_24_[Changes]/CMakeDetermineCompilerABI_CXX.bin" />
+  </binary>
+</changelist>
